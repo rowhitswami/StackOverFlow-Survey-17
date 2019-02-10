@@ -1,6 +1,6 @@
 Done: salary vs education: How education may influence the salary?
 
-ratio of gender for all continent 
+ratio of gender in countries
 
 Done: salary vs language
 
