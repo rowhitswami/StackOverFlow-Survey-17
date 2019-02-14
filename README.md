@@ -1,4 +1,5 @@
 # Stack OverFlow Developers Survey, 2017
+![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 ## Objectives
 - How education may influence the salary?
@@ -25,6 +26,10 @@ With no surprise, the pattern is linear over the number of years of experience. 
 ![](Screenshots/4.png)
 
 It doesn't make much difference at all. A developer specialized in one programming language get a normal pay of $53,202 whereas the one who is skilled in 9 different languages get a normal compensation of $53,301 (0.18% more).
+
+
+### View a detailed analysis report on Medium
+[![Medium](Screenshots/medium_logo.png)](https://medium.com/@rowhitswami/4-crunching-facts-of-stack-overflow-developer-survey-17-441eb082331f)
 
 ## Requirements
 `pandas`, `matplotlib`, `jupyter-notebook` (if running locally)
