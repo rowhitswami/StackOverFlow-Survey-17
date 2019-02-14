@@ -39,6 +39,15 @@ It doesn't make much difference at all. A developer specialized in one programmi
 - `survey_results_public.csv` - Developers Survey Result Data
 - `survey_results_schema.csv` `reviews.csv` - Developers Survey Result Schema
 
+## License
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
+**Copyright (c) 2019 Rohit Swami**
+
+This project is licensed under the MIT License - see the LICENSE file for details
+
 ## Acknowledgements
-Data Source
+### Data Source
 - https://insights.stackoverflow.com/survey/
+
+
