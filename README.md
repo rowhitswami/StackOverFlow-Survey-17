@@ -6,6 +6,7 @@
 - Gender Ratio of developers across the globe
 - The rate of increase in salary with the years of experience
 - More Languages = More Money?
+- Another Objectives
 
 ## Summary
 ### 1. How education may influence the salary?
